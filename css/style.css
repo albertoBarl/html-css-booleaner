@@ -13,3 +13,33 @@ header{
     height: 50px;
     padding-top: 2.5%;
 }
+
+/* Intestazione */
+#intestazione{
+    width: auto;
+}
+
+#title{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#credits{
+    color: grey;
+    font-size: 16px;
+}
+
+#owner{
+    color: blue;
+}
+
+.spxthings{
+    font-size: 11px;
+}
+
+#timimg{
+    display: inline-block;
+    margin-top: 22px;
+}
+
+/* Contenuto */
